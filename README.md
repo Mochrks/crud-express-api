@@ -19,8 +19,8 @@ This project is a simple CRUD API built using **Express.js**, integrated with **
 
 - **Clone the repository**
     ```bash
-    git clone https://github.com/mochrks/Breadcrumbscrud-express-api.git
-    cd Breadcrumbscrud-express-api/express-project
+    git clone https://github.com/mochrks/crud-express-api.git
+    cd crud-express-api/express-project
     ```
 
 - **Install dependencies**
