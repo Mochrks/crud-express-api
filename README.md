@@ -11,7 +11,7 @@
 
 ### Project Overview
 
-This project is a simple CRUD API built using **Express.js**, integrated with **Prisma ORM**, and backed by a **PostgreSQL** database. It provides efficient endpoints for login, register, creating, reading, updating, and deleting employee records.
+This project is a simple CRUD API built using **Express.js**, integrated with **Prisma ORM**, and backed by a **PostgreSQL** database. It provides efficient endpoints for login, register, creating, reading, updating, and deleting employee in data rows.
 
 ### Setup & Installation
   <a href="https://www.npmjs.com/package/express" target="_blank"> <img src="https://img.shields.io/npm/v/express.svg" alt="Express Version" /> </a> 
